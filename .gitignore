@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Parcel
+dist/
+.cache/
+
+# npm
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# IDE-specific files
+*.idea/
+*.iml
+
+# User-specific files
+*.suo
+*.user
+*.suo
+*.user
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
